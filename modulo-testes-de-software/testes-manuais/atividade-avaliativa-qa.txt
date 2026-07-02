@@ -1,0 +1,24 @@
+# O que é Teste de Software
+
+O teste de software é o processo prático e analítico de verificar se um sistema digital funciona exatamente como esperado. Não se trata apenas de encontrar erros, mas de comparar o comportamento atual do sistema com os requisitos planejados para garantir uma experiência sem falhas.
+
+## Por que testar é importante para o negócio
+
+* **Protege a receita:** Evita falhas que interrompem vendas ou transações financeiras.
+* **Reduz custos:** Corrigir erros em produção é mais caro do que na fase de desenvolvimento.
+* **Preserva a reputação:** Softwares instáveis afastam clientes e destroem a confiança na marca.
+* **Acelera o mercado:** Testes contínuos permitem lançar atualizações com segurança e rapidez.
+
+## O que caracteriza um software com qualidade
+
+* **Confiabilidade:** O sistema executa suas funções sem falhar continuamente.
+* **Usabilidade:** A interface é intuitiva, clara e acessível para o usuário final.
+* **Desempenho:** As páginas e comandos respondem de forma rápida, mesmo sob alta carga.
+* **Segurança:** Os dados dos usuários e da empresa estão totalmente protegidos contra invasões.
+* **Manutenibilidade:** O código é limpo, facilitando alterações e evoluções futuras.
+
+## O papel do QA em um time moderno
+
+No cenário ágil moderno, o QA (*Quality Assurance*) deixou de ser um mero "encontrador de bugs" no final do projeto. Ele atua como um parceiro estratégico desde a concepção do produto. 
+
+O QA dissemina a cultura de qualidade por todo o time, ajudando desenvolvedores a pensarem em cenários de erro antes mesmo de escreverem o código. Ele automatiza testes repetitivos, analisa riscos de negócio e garante que a entrega final gere valor real para o cliente, atuando como a ponte entre a necessidade técnica e o objetivo comercial.
